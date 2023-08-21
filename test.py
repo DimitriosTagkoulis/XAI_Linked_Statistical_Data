@@ -6,4 +6,4 @@ def test(a,b):
 
 result = test(2,2)
 print(result)
-print('test done')
+print('test done 2')
